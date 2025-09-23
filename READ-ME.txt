@@ -1,6 +1,6 @@
-  =>  Template Name    : iCREAM - Ice Cream Shop Website Template
+  =>  Template Name    : YOOGA - Free Yoga Website Template
 
-  =>  Template Link    : https://htmlcodex.com/ice-cream-shop-website-template
+  =>  Template Link    : https://htmlcodex.com/free-yoga-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
