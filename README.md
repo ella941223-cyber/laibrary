@@ -32,4 +32,4 @@
 
 * [YT影片連結](https://youtu.be/oqnBOV2iO)
   
-* [專題程式碼Github repo 連結](https://github.com/ella941223-cyber/FortuneWeb.git))
+* [專題程式碼Github repo 連結](https://github.com/ella941223-cyber/FortuneWeb.git)：因我們兩個電腦系統不同，所以統一在mac的電腦製作及上傳git hub
