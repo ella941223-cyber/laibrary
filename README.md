@@ -16,7 +16,7 @@
 
 ## 3️⃣作業三：[解說影片](https://youtu.be/lsBB4fstLQU)
 
-* [repository]：(https://github.com/ella941223-cyber/Introduction-to-the-Internet-2)
+* [repository](https://github.com/ella941223-cyber/Introduction-to-the-Internet-2)
 
 ## 4️⃣作業四：[render 網址](https://homepagewithapi.onrender.com)
 
@@ -30,6 +30,6 @@
 [render 網址](https://fortuneweb.onrender.com)、
 [vercel 網址](https://fortune-web-yw8b.vercel.app/)
 
-* [YT影片連結](ttps://youtu.be/oqnBOV2iO)
+* [YT影片連結](https://youtu.be/oqnBOV2iO)
   
-* [專題程式碼Github repo 連結]：(https://github.com/ella941223-cyber/FortuneWeb.git))
+* [專題程式碼Github repo 連結](https://github.com/ella941223-cyber/FortuneWeb.git))
